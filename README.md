@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Fabrizzio Lo Presti
 #### I am FrontEnd Developer and Casual BackEnd Developer
-![I am GitHub Readme Generator's creatorss]
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I like develope web systems and  landing pages connected with the Bacekend
 
 <!--
 **FabrizzioLoPresti/FabrizzioLoPresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
