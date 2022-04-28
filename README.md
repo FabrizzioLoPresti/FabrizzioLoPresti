@@ -10,7 +10,9 @@ Skills: HTML | CSS | JS | REACT JS | NEXT JS | TAILWIND CSS | NODE.JS | EXPRESS
 - 🌱 I’m currently learning AI and Data Analytics 
 - 📫 How to reach me: fabrizziolopresti1999@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FabrizzioLoPresti)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FabrizzioLopresti)](https://github.com/ryo-ma/github-profile-trophy)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FabrizzioLopresti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fabrizzio-lo-presti-a7222b1b4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fabrizziolopresti-portfolio.netlify.app/)  
 <!--
 **FabrizzioLoPresti/FabrizzioLoPresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
