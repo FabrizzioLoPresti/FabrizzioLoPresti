@@ -4,6 +4,8 @@
 
 I like develope web systems and  landing pages connected with the Bacekend
 
+Skills: HTML | CSS | JS | REACT JS | NEXT JS | TAILWIND CSS | NODE.JS | EXPRESS
+
 <!--
 **FabrizzioLoPresti/FabrizzioLoPresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
