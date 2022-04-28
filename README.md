@@ -6,6 +6,10 @@ I like develope web systems and  landing pages connected with the Bacekend
 
 Skills: HTML | CSS | JS | REACT JS | NEXT JS | TAILWIND CSS | NODE.JS | EXPRESS
 
+- 🔭 I’m currently working on personal projects 
+- 🌱 I’m currently learning AI and Data Analytics 
+- 📫 How to reach me: fabrizziolopresti1999@gmail.com 
+
 <!--
 **FabrizzioLoPresti/FabrizzioLoPresti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
