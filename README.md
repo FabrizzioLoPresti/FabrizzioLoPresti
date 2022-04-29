@@ -7,7 +7,7 @@ I like develope web systems and  landing pages connected with the Bacekend
 Skills: HTML | CSS | JS | REACT JS | NEXT JS | TAILWIND CSS | NODE.JS | EXPRESS
 
 - 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning AI and Data Analytics 
+- 🌱 I’m currently learning AI, Data Analytics and Blockchain Technology 
 - 📫 How to reach me: fabrizziolopresti1999@gmail.com 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FabrizzioLopresti)![Profile views](https://gpvc.arturio.dev/FabrizzioLopresti)  
