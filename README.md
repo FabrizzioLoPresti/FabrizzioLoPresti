@@ -4,7 +4,7 @@
 
 I like develope web systems and  landing pages connected with the Bacekend
 
-Skills: HTML | CSS | JS | REACT JS | NEXT JS | TAILWIND CSS | NODE.JS | EXPRESS
+Skills: HTML | CSS | JS | TypeScript | Next.js | React | Redux | Tailwind CSS | Nest.js | PostgreSQL | Git
 
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning AI, Data Analytics and Blockchain Technology 
