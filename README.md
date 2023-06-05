@@ -2,7 +2,7 @@
 #### I am FrontEnd Developer and Casual BackEnd Developer
 ![I am GitHub Readme Generator's creatorss](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
 
-I like develope web systems and  landing pages connected with the Bacekend
+I like develope web systems and  landing pages connected with the Backend
 
 Skills: HTML | CSS | JS | TypeScript | Next.js | React | Redux | Tailwind CSS | Nest.js | PostgreSQL | Git
 
