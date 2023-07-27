@@ -4,7 +4,7 @@
 ![I am GitHub Readme Generator's creatorss](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizzio-lo-presti-a7222b1b4/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrizzio-lo-presti-a7222b1b4/) 
 [![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fabrilopresti.netlify.app/)
 
 # 💻 Tech Stack:
