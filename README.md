@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizzioLoPresti&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://media.makeameme.org/created/worked-fine-for.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FabrizzioLoPresti&icon=7&color=10)](https://visitcount.itsvg.in)
