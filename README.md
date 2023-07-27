@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋, my name is Fabrizzio Lo Presti<br>I am FrontEnd Developer and Casual BackEnd Developer<br>I like develope web systems and landing pages connected with the Backend<br>🔭 I’m currently working on AI Project with Next.js and Stable Diffusion.<br>🌱 I’m currently learning AI, Data Analytics and Blockchain Technology<br>💬 Ask me about: fabrizziolopresti1999@gmail.com<br>⚡ Yep yep yep  
 
-[I am GitHub Readme Generator's creatorss](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
+![I am GitHub Readme Generator's creatorss](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrizzio-lo-presti-a7222b1b4/) 
